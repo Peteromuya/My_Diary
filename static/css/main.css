@@ -1,14 +1,5 @@
                 
-            .bodybg {
-                
-                margin: 0;
-                padding: 0;
-                font-family: Helvetica, Arial, sans-serif;
-                background-color: darkred;
-                opacity: 0.9;
-                filter: alpha(opacity=93)
-                
-            }
+           
             
             #background-image {
                 
@@ -58,11 +49,7 @@
                 float:left;
     
             }
-            .topbar-menu a {
-                color: black;
-                text-decoration: none;
-        
-            }
+            
             
             #currentlocation img {
 
@@ -180,7 +167,7 @@
             transition: 0.3s;   
             }
 
-            #signin-image {
+            #bell-image {
                 
                 width:35px;
                 margin:10px 15px 0 10px;
@@ -188,7 +175,7 @@
                 float:right;
                
             }
-            #signintext {
+            #reminder {
                 
                 font-weight: bold;
                 font-size: 90%;
@@ -198,7 +185,8 @@
                 padding-right: 50px;  
                 color: wheat
             }
-h3 {
-    
-}
+            h3 {
+                float:left;
+                color:white;
+            }
                 
